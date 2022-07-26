@@ -1,0 +1,7 @@
+_config.yml.backup.yml
+_config.volantis.yaml.backup.yml
+themes/landscape
+node_modules
+public
+db.json
+themes/volantis/.github/publish.sh
